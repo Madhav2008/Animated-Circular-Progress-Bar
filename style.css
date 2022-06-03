@@ -55,4 +55,4 @@ body {
     transform: translate(5px, 5px);
 }
 
-.container .card .percent svg circle:nth-child() {}
+.container .card .percent svg circle:nth-child(2) {}
