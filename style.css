@@ -126,7 +126,7 @@ body {
     }
 }
 
-@keyframes animateDot {
+@keyframes fadeIn {
     0% {
         transform: rotate(0deg);
     }
