@@ -29,5 +29,5 @@ body {
     width: 220px;
     height: 250px;
     background: #2a2a2a;
-    display: flex;
+    display: flex;justify-content: center;
 }
