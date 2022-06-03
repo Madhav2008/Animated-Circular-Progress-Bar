@@ -83,4 +83,4 @@ body {
     box-shadow: 0 0 10px var(--clr), 0 0 30px var(--clr);
 }
 
-@keyframes animateDot {}
+@keyframes animateDot {0%}
