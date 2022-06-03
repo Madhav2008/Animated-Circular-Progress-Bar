@@ -17,11 +17,6 @@ body {
 
 .container {
     position: relative;
-    width: 0px;
-    height: 0px;
-    background: #37444b;
-    border-radius: 25px;
-    transition: 0.5s;
     display: flex;
     justify-content: center;
     align-items: center;
