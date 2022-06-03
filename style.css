@@ -40,4 +40,4 @@ body {
     height: 150px;
 }
 
-.container .card .percent svg {}
+.container .card .percent svg {position: relative;}
