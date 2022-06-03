@@ -86,7 +86,7 @@ body {
 .number {
     position: absolute;
     inset: 0;
-    display: flex;
+    display: flex;justify-content: center;
 }
 
 @keyframes animateDot {
