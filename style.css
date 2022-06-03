@@ -34,4 +34,6 @@ body {
     align-items: center;
 }
 
-.container .card .percent {position: relative;}
+.container .card .percent {
+    position: relative;
+}
