@@ -55,4 +55,6 @@ body {
     transform: translate(5px, 5px);
 }
 
-.container .card .percent svg circle:nth-child(2) {stroke: var(--clr);}
+.container .card .percent svg circle:nth-child(2) {
+    stroke: var(--clr);
+}
