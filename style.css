@@ -65,7 +65,8 @@ body {
 .dot {
     position: absolute;
     inset: 5px;
-    z-index: 10;transform: rotate(calc(3.6));
+    z-index: 10;
+    transform: rotate(calc(3.6));
 }
 
 .dot::before {
