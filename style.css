@@ -81,7 +81,9 @@ body {
     border-radius: 50%;
     background: var(--clr);
     box-shadow: 0 0 10px var(--clr), 0 0 30px var(--clr);
-}.number{}
+}
+
+.number {}
 
 @keyframes animateDot {
     0% {
