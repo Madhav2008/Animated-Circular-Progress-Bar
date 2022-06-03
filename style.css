@@ -46,4 +46,6 @@ body {
     height: 150px;
 }
 
-.container .card .percent svg circle {width: 100%;}
+.container .card .percent svg circle {
+    width: 100%;
+}
