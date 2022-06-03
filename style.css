@@ -92,7 +92,7 @@ body {
     flex-direction: column;
 }
 
-.number h2 {}
+.number h2 {display: flex;}
 
 @keyframes animateDot {
     0% {
