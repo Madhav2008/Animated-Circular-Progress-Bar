@@ -59,4 +59,4 @@ body {
     stroke: var(--clr);
     stroke-dasharray: 440;
     stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
-}.dot{}
+}.dot {}
