@@ -68,4 +68,6 @@ body {
     inset: 5px;
 }
 
-.dot::before {content: '';}
+.dot::before {
+    content: '';
+}
