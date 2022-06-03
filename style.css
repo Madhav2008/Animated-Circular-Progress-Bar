@@ -107,7 +107,7 @@ body {
     font-size: 0.5em;
 }
 
-.number p {}
+.number p {font-weight: 300;}
 
 @keyframes animateDot {
     0% {
