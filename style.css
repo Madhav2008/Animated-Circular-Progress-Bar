@@ -132,6 +132,6 @@ body {
     }
 
     100% {
-        transform: rotate(calc(3.6deg * var(--num)));
+        opacity: 1;
     }
 }
