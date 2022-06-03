@@ -66,4 +66,4 @@ body {
     position: absolute;
     background: #f00;
     inset: 5px;
-}
+}.dot::before
