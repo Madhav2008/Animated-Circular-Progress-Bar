@@ -57,5 +57,6 @@ body {
 
 .container .card .percent svg circle:nth-child(2) {
     stroke: var(--clr);
-    stroke-dasharray: 200;stroke-dashoffset: 200;
+    stroke-dasharray: 200;
+    stroke-dashoffset: 200;
 }
