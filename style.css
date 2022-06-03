@@ -71,5 +71,6 @@ body {
 .dot::before {
     content: '';
     position: absolute;
-    width: 10px;height: 10px;
+    width: 10px;
+    height: 10px;
 }
