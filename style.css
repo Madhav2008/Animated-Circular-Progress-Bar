@@ -62,4 +62,6 @@ body {
     stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
 }
 
-.dot {position: absolute;}
+.dot {
+    position: absolute;
+}
