@@ -70,7 +70,8 @@ body {
 
 .dot::before {
     content: '';
-    position: absolute;top: -5px;
+    position: absolute;
+    top: -5px;
     width: 10px;
     height: 10px;
     background: var(--clr);
