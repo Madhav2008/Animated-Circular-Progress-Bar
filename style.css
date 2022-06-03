@@ -71,7 +71,8 @@ body {
 .dot::before {
     content: '';
     position: absolute;
-    top: -5px;left: 50%;
+    top: -5px;
+    left: 50%;
     width: 10px;
     height: 10px;
     background: var(--clr);
