@@ -63,5 +63,6 @@ body {
 }
 
 .dot {
-    position: absolute;background: #f00;
+    position: absolute;
+    background: #f00;
 }
