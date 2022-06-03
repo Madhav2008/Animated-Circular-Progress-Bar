@@ -90,7 +90,9 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}.number h2{}
+}
+
+.number h2 {}
 
 @keyframes animateDot {
     0% {
