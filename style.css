@@ -83,7 +83,7 @@ body {
     box-shadow: 0 0 10px var(--clr), 0 0 30px var(--clr);
 }
 
-.number {}
+.number {position: absolute;}
 
 @keyframes animateDot {
     0% {
