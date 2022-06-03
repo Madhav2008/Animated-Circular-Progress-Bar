@@ -20,4 +20,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}.container .card{}
+}
+
+.container .card {}
