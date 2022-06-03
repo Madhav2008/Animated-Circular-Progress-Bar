@@ -52,5 +52,6 @@ body {
     height: 100%;
     fill: transparent;
     stroke-width: 2;
-    stroke: #191919;transform: translate(5px, 5px);
+    stroke: #191919;
+    transform: translate(5px, 5px);
 }
