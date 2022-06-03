@@ -42,5 +42,5 @@ body {
 
 .container .card .percent svg {
     position: relative;
-    width: 150px;
+    width: 150px;height: 150px;
 }
