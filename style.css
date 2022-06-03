@@ -128,7 +128,7 @@ body {
 
 @keyframes fadeIn {
     0% {
-        transform: rotate(0deg);
+        opacity: 0;
     }
 
     100% {
