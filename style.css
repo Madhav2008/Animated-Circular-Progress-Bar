@@ -30,5 +30,5 @@ body {
     height: 250px;
     background: #2a2a2a;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: center;
 }
