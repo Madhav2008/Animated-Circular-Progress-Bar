@@ -96,7 +96,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;font-weight: 700;
+    color: #fff;
+    font-weight: 700;
 }
 
 @keyframes animateDot {
