@@ -112,7 +112,7 @@ body {
     font-size: 0.75em;
     line-height: 2px;
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.75);
 }
 
 @keyframes animateDot {
