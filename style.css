@@ -110,7 +110,8 @@ body {
 .number p {
     font-weight: 300;
     font-size: 0.75em;
-    line-height: 2px;text-transform: uppercase;
+    line-height: 2px;
+    text-transform: uppercase;
 }
 
 @keyframes animateDot {
