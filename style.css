@@ -35,5 +35,6 @@ body {
 }
 
 .container .card .percent {
-    position: relative;width: 150px;
+    position: relative;
+    width: 150px;
 }
