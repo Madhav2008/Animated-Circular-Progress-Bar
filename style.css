@@ -125,3 +125,12 @@ body {
         transform: rotate(calc(3.6deg * var(--num)));
     }
 }
+@keyframes animateDot {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(calc(3.6deg * var(--num)));
+    }
+}
