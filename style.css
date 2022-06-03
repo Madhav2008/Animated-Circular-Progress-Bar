@@ -48,5 +48,6 @@ body {
 
 .container .card .percent svg circle {
     width: 100%;
-    height: 100%;fill: transparent;
+    height: 100%;
+    fill: transparent;
 }
