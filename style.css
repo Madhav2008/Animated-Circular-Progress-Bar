@@ -24,5 +24,6 @@ body {
 
 .container .card {
     position: relative;
-    width: 220px;height: 250px;
+    width: 220px;
+    height: 250px;
 }
