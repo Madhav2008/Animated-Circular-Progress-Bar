@@ -72,5 +72,5 @@ body {
     content: '';
     position: absolute;
     width: 10px;
-    height: 10px;
+    height: 10px;background: var(--clr);
 }
