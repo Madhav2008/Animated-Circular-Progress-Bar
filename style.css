@@ -64,5 +64,5 @@ body {
 
 .dot {
     position: absolute;
-    background: #f00;
+    background: #f00;inset: 5px;
 }
