@@ -28,5 +28,6 @@ body {
     position: relative;
     width: 220px;
     height: 250px;
-    background: #2a2a2a;display: flex;
+    background: #2a2a2a;
+    display: flex;
 }
