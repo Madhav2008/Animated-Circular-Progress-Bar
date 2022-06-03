@@ -60,7 +60,7 @@ body {
     stroke: var(--clr);
     stroke-dasharray: 440;
     stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
-    animation: fadeIn 1s linear forwards;
+    animation: fadeIn 1s linear forwards;animation-delay: 2.5s;
 }
 
 .dot {
