@@ -69,5 +69,6 @@ body {
 }
 
 .dot::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
