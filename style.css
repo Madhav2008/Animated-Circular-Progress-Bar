@@ -22,4 +22,6 @@ body {
     align-items: center;
 }
 
-.container .card {position: relative;}
+.container .card {
+    position: relative;
+}
