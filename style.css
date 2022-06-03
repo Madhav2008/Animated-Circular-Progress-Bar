@@ -53,4 +53,4 @@ body {
     stroke-width: 2;
     stroke: #191919;
     transform: translate(5px, 5px);
-}.container .card .percent svg circle:nth-child()
+}.container .card .percent svg circle:nth-child(){}
