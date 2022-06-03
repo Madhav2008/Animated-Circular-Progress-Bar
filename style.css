@@ -37,7 +37,8 @@ body {
 .container .card .percent {
     position: relative;
     width: 150px;
-    height: 150px;background: #f00;
+    height: 150px;
+    background: #f00;
 }
 
 .container .card .percent svg {
@@ -50,5 +51,6 @@ body {
     width: 100%;
     height: 100%;
     fill: transparent;
-    stroke-width: 2;stroke: #191919;
+    stroke-width: 2;
+    stroke: #191919;
 }
