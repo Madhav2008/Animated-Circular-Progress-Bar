@@ -75,6 +75,6 @@ body {
     left: 50%;
     transform: translateX(-50%);
     width: 10px;
-    height: 10px;
+    height: 10px;border-radius: 50%;
     background: var(--clr);
 }
