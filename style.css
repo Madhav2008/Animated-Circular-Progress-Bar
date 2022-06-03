@@ -94,7 +94,8 @@ body {
 
 .number h2 {
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
 @keyframes animateDot {
