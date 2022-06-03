@@ -102,7 +102,7 @@ body {
 }
 
 .number h2 span {
-    font-weight: 300;
+    font-weight: 300;color: #fff;
 }
 
 @keyframes animateDot {
